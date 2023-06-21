@@ -56,9 +56,10 @@
  
      docker-compose stop
      
-'For Enable the Container'
+  'For Enable the Container'
 
        docker-compose up -d
+       
 # Delete the site (delete containers and local files) 
 
         docker-compose down -v 
