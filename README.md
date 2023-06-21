@@ -42,7 +42,7 @@
 # config 
 `Here we are creating the Ngnix file for configuration of project as ngnix.conf,it will provide the path to the php and html to localhost by root /var/www/html `It will provide the web server as localhost to deploy the website`
 
-#Docker 
+# Docker 
 `Inside Docker we will provide php.dockerfile  with some basic commands for updates and install`
 
  # Add entry to /etc/hosts 
