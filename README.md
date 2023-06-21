@@ -40,7 +40,8 @@
 `An app provides the Index.php file, which is bascially based on the Php code and HTML Languages which are going to be used as a website showcase`
 
 # config 
-`Here we are creating the Ngnix file for configuration of project as ngnix.conf,it will provide the path to the php and html to localhost by root /var/www/html `It will provide the web server as localhost to deploy the website`
+`Here we are creating the Ngnix file for configuration of project as ngnix.conf,it will provide the path to the php and html to localhost by root /var/www/html` 
+ `It will provide the web server as localhost to deploy the website`
 
 # Docker 
 `Inside Docker we will provide php.dockerfile  with some basic commands for updates and install`
