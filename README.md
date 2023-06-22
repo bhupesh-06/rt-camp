@@ -37,6 +37,7 @@
 `They Provide the diffent files for the execution of the project`
 
 # App
+`The name used when creating a container.`
 `An app provides the Index.php file, which is bascially based on the Php code and HTML Languages which are going to be used as a website showcase`
 
 # config 
